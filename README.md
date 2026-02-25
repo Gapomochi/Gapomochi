@@ -6,7 +6,7 @@ I’m a PhD student in Biostatistics at the University of Iowa.
 
 ## About Me
 
-- Passionate about **Clinical Trials**, **Bayesian methods**, and **Causal inference**;
+- Passionate about **Clinical Trials** (early phase dose selection), **Bayesian methods** (Bayesian Adaptive Design, Bayesian borrowing (power prior, commentate prior etc.)), and **Causal inference** (external/synthetic control arm, Propensity Score, Indirect comparison (e.g. Matching-adjusted Indirect Comparisons/Simulated Treatment Comparisons));
 - Currently working on Bayesian modeling and Survival Analysis;
 - Research Assistant at UIowa on two projects:  
   - R package development [**tumr**](https://github.com/pbreheny/tumr);  
@@ -16,8 +16,7 @@ I’m a PhD student in Biostatistics at the University of Iowa.
 
 ## Skills & Interests
 
-- Bayesian inference;
-- Statistical computing and data analysis;  
+- Bayesian inference (Stan, JAGS);
 - R programming;
 - Python programming.
 
