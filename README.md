@@ -6,7 +6,7 @@ I’m a PhD student in Biostatistics at the University of Iowa.
 
 ## About Me
 
-- Passionate about **Clinical Trials** (early phase dose selection, Seamless Phase 2/3 Design), **Bayesian methods** (Bayesian Adaptive Design, Bayesian borrowing (power prior, commentate prior etc.)), and **Causal inference** (external/synthetic control arm, Propensity Score, Indirect comparison (Matching-adjusted Indirect Comparisons/Simulated Treatment Comparisons));
+- Passionate about **Clinical Trials** (early phase dose selection, Seamless Phase 2/3 Design), **Bayesian methods** (Bayesian Adaptive Design, Bayesian borrowing (power prior, commentate prior etc.), Bayesian Hierarchical Model), and **Causal inference** (external/synthetic control arm, Propensity Score, Indirect comparison (Matching-adjusted Indirect Comparisons/Simulated Treatment Comparisons));
 - Currently working on Bayesian modeling and Survival Analysis;
 - Research Assistant at UIowa on several projects:  
   - R package development [**tumr**](https://github.com/pbreheny/tumr);  
