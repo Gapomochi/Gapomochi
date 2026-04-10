@@ -10,7 +10,7 @@ I’m a PhD student in Biostatistics at the University of Iowa.
 - Research Assistant at University of Iowa on several projects:  
   - R package development [**tumr**](https://github.com/pbreheny/tumr);  
   - A Quality Adjustment Survival Tool for a Patient-centered Personalized Care in Oncology [**Q-TWiST**](https://www.public-health.uiowa.edu/preceptorships-potential-projects/#:~:text=A%20Quality%20Adjustment%20Survival%20Tool%20for%20a%20Patient%2Dcentered%20Personalized%20Care%20in%20Oncology%C2%A0(Gideon%20Zamba));
-  - Bayesian Methods for Futility Analysis in Prostate Cancer Trials (Preceptorship project).
+  - Bayesian Methods for Futility Analysis in Prostate Cancer Trials [**(Preceptorship project)**](https://www.public-health.uiowa.edu/seminar/preceptorship-presentations-zhao-steinmetz-wallace-and-tertyshnaia/).
 
 ---
 
