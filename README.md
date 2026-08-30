@@ -14,12 +14,4 @@ I’m a PhD student in Biostatistics at the University of Iowa.
 
 ---
 
-## Skills & Interests
-
-- Bayesian inference (Stan, JAGS);
-- R programming;
-- Python programming.
-
----
-
 
