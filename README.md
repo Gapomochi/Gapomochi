@@ -6,7 +6,7 @@ I’m a PhD student in Biostatistics at the University of Iowa.
 
 ## About Me
 
-- Passionate about **Clinical Trials** (dose selection/optimization, Seamless Phase 2/3 Design, surrogate endpoint, Quality Adjustment Survival Tool), **Bayesian methods** (Bayesian Adaptive Design, Bayesian dynamic borrowing, Bayesian Hierarchical Model), and **Causal inference** (external/synthetic control arm, Indirect comparison, Principal Stratification, covariate adjustment, surrogate validation));
+- Passionate about **Clinical Trials** (dose selection/optimization, Seamless Phase Design, surrogate endpoint, Patient-focused drug development (PFDD)), **Bayesian methods** (Bayesian Adaptive Design, Bayesian borrowing, Bayesian Hierarchical Model), and **Causal inference** (external/synthetic control arm, Indirect comparison, Principal Stratification, covariate adjustment, surrogate endpoint validation));
 - Currently work on several projects:
   - PhD dissertation: [**Potential Reading Course Papers**](https://github.com/Gapomochi/phd_thesis_reading).
   - R package tumr: [**R package link**](https://github.com/pbreheny/tumr); [**manuscript-1**](https://github.com/pbreheny/man-tumr). 
