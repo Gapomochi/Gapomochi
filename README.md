@@ -6,7 +6,7 @@ I’m a PhD student in Biostatistics at the University of Iowa.
 
 ## About Me
 
-- Passionate about **Clinical Trials**, **Bayesian methods, **Survival analysis**,and **Causal inference**;
+- Passionate about **Clinical Trials**, **Bayesian methods**, **Survival analysis**,and **Causal inference**;
 - Currently work on several projects:
   - Reading materials about [**semiparametric statistics**](https://guoanna.com/assets/Notes/Semiparametric_treatsheet.pdf).
   - PhD dissertation: [**Potential Reading Course Papers**](https://github.com/Gapomochi/phd_thesis_reading).
